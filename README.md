@@ -25,16 +25,13 @@ The application allows users to:
 ## Screenshots
 
 ### Login Screen
-<img width="572" height="616" alt="image" src="https://github.com/user-attachments/assets/1be58e3d-4196-4b5f-adc0-ccc38fe939f3" />
-
+<img src="https://github.com/user-attachments/assets/1be58e3d-4196-4b5f-adc0-ccc38fe939f3" width="300"/>
 
 ### Main Menu
-<img width="449" height="626" alt="image" src="https://github.com/user-attachments/assets/1f0f542a-9895-48ae-9ab1-8b45adec2842" />
-
+<img src="https://github.com/user-attachments/assets/1f0f542a-9895-48ae-9ab1-8b45adec2842" width="300"/>
 
 ### Animal Information
-<img width="550" height="513" alt="image" src="https://github.com/user-attachments/assets/5a7ae18f-55bd-4ae5-9333-442b5f8c9ce5" />
-
+<img src="https://github.com/user-attachments/assets/5a7ae18f-55bd-4ae5-9333-442b5f8c9ce5" width="300"/>
 
 ### Image Viewer
-<img width="553" height="389" alt="image" src="https://github.com/user-attachments/assets/da17cf53-9511-4b3b-b2d4-fbb60888437f" />
+<img src="https://github.com/user-attachments/assets/da17cf53-9511-4b3b-b2d4-fbb60888437f" width="300"/>
