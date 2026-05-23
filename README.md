@@ -1,89 +1,40 @@
 # Wild Adventure – Animal Kingdom Explorer
 
-An educational desktop application developed in Python using Tkinter that enables users to explore animal categories through interactive visual and audio-based learning.
+A Python desktop GUI application built with Tkinter for interactive animal exploration through images, sounds, and educational information.
 
 ## Overview
 
-Wild Adventure is a beginner-level Python desktop GUI project created to practice:
+Wild Adventure is a beginner-level academic project developed to practice Python programming, object-oriented programming, GUI development, file handling, and multimedia integration.
 
-- Python programming
-- Object-Oriented Programming (OOP)
-- GUI development with Tkinter
-- File handling
-- Multimedia integration
+The application allows users to:
+- Create an account and log in
+- Browse animal categories
+- View animal information
+- Display animal images
+- Play animal sounds
 
-The application allows users to sign up, log in, browse animal categories, view animal information, display images, and play animal sounds.
-
-## Features
-
-- User authentication (Signup/Login)
-- Animal category navigation
-- Educational animal information
-- Image viewing
-- Animal sound playback
-- CSV-based local data storage
-- OOP-based project structure
-
-## Technologies Used
+## Tech Stack
 
 - Python
 - Tkinter
-- Pillow (PIL)
+- Pillow
 - Pygame
 - CSV
-- Object-Oriented Programming
-
-## Project Structure
-
-```bash
-WildAdventure/
-├── main.py
-├── assets/
-│   ├── images/
-│   └── audio/
-├── data/
-│   ├── users.csv
-│   └── animals.csv
-```
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/jannatdad123/wild-adventure-animal-explorer.git
-```
-
-Install dependencies:
-
-```bash
-pip install pillow pygame-ce
-```
-
-Run the application:
-
-```bash
-python main.py
-```
+- Object-Oriented Programming (OOP)
 
 ## Screenshots
 
 ### Login Screen
-<img width="500" alt="Login Screen" src="PASTE_IMAGE_LINK_HERE">
+<img width="572" height="616" alt="image" src="https://github.com/user-attachments/assets/1be58e3d-4196-4b5f-adc0-ccc38fe939f3" />
+
 
 ### Main Menu
-<img width="500" alt="Main Menu" src="PASTE_IMAGE_LINK_HERE">
+<img width="449" height="626" alt="image" src="https://github.com/user-attachments/assets/1f0f542a-9895-48ae-9ab1-8b45adec2842" />
 
-### Animal Information Screen
-<img width="500" alt="Animal Information" src="PASTE_IMAGE_LINK_HERE">
+
+### Animal Information
+<img width="550" height="513" alt="image" src="https://github.com/user-attachments/assets/5a7ae18f-55bd-4ae5-9333-442b5f8c9ce5" />
+
 
 ### Image Viewer
-<img width="500" alt="Animal Image" src="PASTE_IMAGE_LINK_HERE">
-
-## Author
-
-**Jannat Dad**  
-Computer Science Student – University of Turbat
-
-- GitHub: https://github.com/jannatdad123
-- LinkedIn: https://www.linkedin.com/in/jannat-dad-014a22273
+<img width="553" height="389" alt="image" src="https://github.com/user-attachments/assets/da17cf53-9511-4b3b-b2d4-fbb60888437f" />
