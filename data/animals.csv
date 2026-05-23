@@ -1,0 +1,10 @@
+Animal Name,Color,Sensory Organs,Reproduction Method,Weight,Diet,Image File,Sound File
+Cat,"Black, White, Brown","Eyes, Nose, Skin, Tongue, Ear",Gives birth to babies,3-4 kg,Carnivore,cat.jpg,cat.mp3
+Dog,"Black, Brown, White","Eyes, Nose, Skin, Tongue, Ear",Gives birth to babies,45 kg,Omnivore,dog.jpg,dog.mp3
+Monkey,"Black, White, Light Brown","Eyes, Nose, Skin, Tongue, Ear",Gives birth to babies,Varies by species,Omnivore,monkey.jpg,monkey.mp3
+Parrot,"Blue, Green, Yellow, Multicolor","Eyes, Taste, Smell, Hearing",Lays eggs,30-40 grams,Herbivore,parrot.jpg,parrot.mp3
+Owl,"Black, Brown","Eyes, Hearing",Lays eggs,40 grams,Carnivore,owl.jpg,owl.mp3
+Frog,"Green, Grey, Light Brown","Eyes, Ear, Taste Buds, Nasal Organs",Lays eggs,22 grams,Insects,frog.jpg,frog.mp3
+Lizard,"Green, Light Brown",Jacobson's Organ,Lays eggs,Varies by species,Insectivore / Carnivore,lizard.jpg,lizard.mp3
+Python Snake,"Brown, Green, Yellow","Skin, Tongue, Heat Sensing",Lays eggs,1-5 kg,Carnivore,snake.jpg,snake.mp3
+Bees,"Brown Band, Golden Yellow",Antennae,Lays eggs,80-120 mg,Nectar,bees.jpg,bees.mp3
